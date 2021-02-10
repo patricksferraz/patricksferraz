@@ -1,8 +1,8 @@
 ### Patrick Ferraz
 
 :computer: Data Scientist
-| :mortar_board: Master in Computer Science
-| :office: Analyst at [SENAI CIMATEC][cimatec]
+| :mortar_board: Master in Computer Science @ UFBA
+| :office: Tech Lead @ [SENAI CIMATEC][cimatec]
 
 [![Twitter Badge](https://img.shields.io/badge/-@patricksferraz-383838?style=flat-square&labelColor=383838&logo=twitter&logoColor=white&link=https://twitter.com/patricksferraz)][twitter]
 [![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Ferraz-383838?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patricksferraz/)][linkedin]
@@ -13,11 +13,10 @@
   - Atyimolab (UFBA)
   - Research Group on Modeling and Computational Intelligence (GPMIC in portuguese - SENAI-CIMATEC)
 - :books: Learning and working with:
-  - computational modeling
-  - artificial intelligence
-  - high performance computing
-  - system development
-  - parallelism
+  - Computational Modeling
+  - Artificial Intelligence
+  - High Performance Computing
+  - IoT
 
 <!--
 **patricksferraz/patricksferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
