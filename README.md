@@ -1,39 +1,65 @@
-### Patrick Ferraz
+<img src="https://raw.githubusercontent.com/patricksferraz/patricksferraz/master/img/ci.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer">
 
-:computer: Data Scientist
-| :mortar_board: Master in Computer Science @ UFBA
-| :office: Tech Lead @ [SENAI CIMATEC][cimatec]
+<p align="left">
+  :vulcan_salute: Hi, I'm Patrick Ferraz, <strong>full cycle developer</strong> with expertise in DevOps, HPC, Data Science, Python and Golang.<br>
+  MSc student in Data Science and Bachelor in Computer Science. Currently acting as Tech Lead in RD&I and in the development of complex Big Data systems.
+</p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@patricksferraz-383838?style=flat-square&labelColor=383838&logo=twitter&logoColor=white&link=https://twitter.com/patricksferraz)][twitter]
-[![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Ferraz-383838?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patricksferraz/)][linkedin]
-[![Gmail Badge](https://img.shields.io/badge/-patrick.ferraz@outlook.com-383838?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrick.ferraz@outlook.com)][email]
+<p align="left">
+  > :coffee: <strong>Main languages:</strong><br>
+  <img
+    src="https://img.shields.io/badge/go-1C1C1C?style=flat-square&logo=go&logoColor=00FFFF"
+  />
+  <img
+    src="https://img.shields.io/badge/python-1C1C1C?style=flat-square&logo=python&logoColor=00FFFF"
+  />
+  <img
+    src="https://img.shields.io/badge/typescript-1C1C1C?style=flat-square&logo=typescript&logoColor=00FFFF"
+  />
+</p>
 
-- :hourglass: Collaborating on:
-  - Distributed Systems Laboratory (LaSiD in portuguese - UFBA)
-  - Atyimolab (UFBA)
-  - Research Group on Modeling and Computational Intelligence (GPMIC in portuguese - SENAI-CIMATEC)
-- :books: Learning and working with:
-  - Computational Modeling
-  - Artificial Intelligence
-  - High Performance Computing
-  - IoT
+<p align="left">
+  > :beers: <strong>Contact me at:</strong> ⤵️
+</p>
 
-<!--
-**patricksferraz/patricksferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://instagram.com/patricksferraz/">
+    <img
+      src="https://img.shields.io/badge/Instagram-1A1B27?style=for-the-badge&logo=instagram&logoColor=38BCAD"
+    />
+  </a>
+  <a href="https://twitter.com/patricksferraz">
+    <img
+      src="https://img.shields.io/badge/Twitter-1A1B27?style=for-the-badge&logo=twitter&logoColor=38BCAD"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/patricksferraz/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=38BCAD"
+    />
+  </a>
+  <a href="mailto:patrick.ferraz@coding4u.com.br">
+    <img
+      src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=38BCAD"
+    />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/patricksferraz">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=patricksferraz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/patricksferraz">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricksferraz&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[cimatec]: http://www.senaicimatec.com.br/
-[email]: mailto:patrick.ferraz@outlook.com
-[twitter]: https://twitter.com/patricksferraz
-[linkedin]: https://www.linkedin.com/in/patricksferraz/
+<h5 align="center">@patricksferraz</h5>
