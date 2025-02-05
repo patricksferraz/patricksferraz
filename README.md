@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/patricksferraz/patricksferraz/master/img/ci.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer">
 
 <p align="left">
-  :vulcan_salute: Hi, I'm Patrick Ferraz, <strong>full cycle developer</strong> with expertise in DevOps, HPC, Data Science, Python and Golang.<br>
-  MSc student in Data Science and Bachelor in Computer Science. Currently acting as Tech Lead in RD&I and in the development of complex Big Data systems.
+  :vulcan_salute: Hi, I'm Patrick Ferraz, <strong>data scientist</strong> with expertise in System Design, DevOps, HPC, Python and Golang.<br>
+  MSc student in Data Science and Bachelor in Computer Science. Currently acting as Principal Data Scientist in RD&I and in the System Design of complex Big Data platforms.
 </p>
 
 <p align="left">
