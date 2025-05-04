@@ -39,7 +39,14 @@ I have experience with a wide range of technologies across the data, software, a
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-I also work with NoSQL (MongoDB, InfluxDB), SQL, Azure Data Factory, Airflow, GenAI/LLMs (OpenAI, Azure AI Services), Computer Vision, Time Series, FFT, Vibration Analysis, Data Scraping, MLOps/DataOps, IaC (Terraform), CI/CD (GitHub Actions, Azure DevOps), Observability (Prometheus, Grafana, Tracer, Error, Logs), SAP Ecosystem (SAP Analytics, Datasphere), Streamlit, Plotly Dash, PowerBI, HLS, Kubernetes, Docker, Kong, Key Vault, Edge Compute, On-Prem Servers, and Atmospheric Models (WRF, Geoschem).
+I also work with:
+* **Databases:** NoSQL (MongoDB, InfluxDB), SQL, PostgreSQL.
+* **Data Engineering:** Azure Data Factory, Airflow, Data Pipelines, Data Ingestion/Integration, Streaming Technologies, Kafka.
+* **Specific AI/ML:** GenAI/LLMs (OpenAI, Azure AI Services), Computer Vision, Time Series, FFT, Vibration Analysis, Data Scraping, MLOps/DataOps, MLOps Concepts.
+* **Infrastructure/DevOps:** IaC (Terraform), CI/CD (GitHub Actions, Azure DevOps), Observability (Prometheus, Grafana, Tracer, Error, Logs), Kubernetes, Docker, Kong, Key Vault, Edge Compute, On-Prem Servers.
+* **SAP Ecosystem:** SAP Analytics, Datasphere.
+* **Visualization:** Streamlit, Plotly Dash, PowerBI.
+* **Other:** HLS, Atmospheric Models (WRF, Geoschem).
 
 ## Projects & Contributions
 
