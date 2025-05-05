@@ -66,11 +66,6 @@ I led the development of critical Big Data and AI platforms, founded data areas,
   </a>
   </p>
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patricksferraz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/patricksferraz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricksferraz&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight)](https://github.com/patricksferraz)
-
 ---
 
 <h5 align="center">@patricksferraz</h5>
