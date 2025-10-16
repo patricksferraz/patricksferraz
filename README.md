@@ -2,21 +2,21 @@
 
 # Hi there, I'm Patrick Ferraz 👋
 
-I'm a **Principal Data Scientist** with extensive experience spanning **Software Engineering, Big Data, Artificial Intelligence, and Cloud Platforms**. I lead high-impact technical initiatives and build innovative data-driven solutions. I am an MSc student in Data Science and hold a Bachelor's degree in Computer Science.
+I am a **Data & AI Engineer** and **Tech Founder** specializing in high-impact **Data & AI Platforms** and systems architecture. My work focuses on driving digital transformation across multi-cloud environments (AWS, Azure, GCP). I am also actively researching **Quantum Machine Learning (QML)** at the Master's level.
 
-My journey includes:
+My expertise spans the entire product lifecycle, from R&D and foundational architecture to robust MLOps/DevOps implementation:
 
-* Technical and strategic leadership in Data Science and Engineering teams.
-* Architecture and implementation of **scalable Big Data, AI, and Cloud Platforms**.
-* Founding **Data Areas** from scratch and driving **Digital Transformation**.
-* Founding and acting as CTO in Tech **Startups**.
-* Development of innovative solutions, with a focus on **Generative Artificial Intelligence (GenAI) and LLMs**.
-* Implementation of robust **DevOps, DataOps, and MLOps** practices.
-* Consulting and technical guidance in complex R&D&I projects.
+* **Principal Focus:** Architecting and implementing scalable Big Data, AI, and Cloud Platforms.
+* **Innovation:** Advanced research in **QML** and practical application of **Generative AI (GenAI) & LLMs**.
+* **Leadership:** Technical and strategic leadership, establishing **Data Areas** from scratch and founding tech **Startups**.
+* **Engineering & Ops:** Deep proficiency in **Software Engineering (Go, Python, TypeScript)** and implementing robust **DevOps, DataOps, and MLOps** practices.
+* **Current Research:** Quantum Machine Learning (QML) and Quantum Computing.
 
-## My Tech Stack
+---
 
-I have experience with a wide range of technologies across the data, software, and cloud universe:
+## Core Stack & Research Focus
+
+I operate across multi-cloud infrastructure and a specialized stack designed for performance and scale.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD4?style=flat-square&logo=go&logoColor=white)
@@ -26,31 +26,27 @@ I have experience with a wide range of technologies across the data, software, a
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
 
 I also work with:
-* **Databases:** NoSQL (MongoDB, InfluxDB), SQL, PostgreSQL.
-* **Data Engineering:** Azure Data Factory, Airflow, Data Pipelines, Data Ingestion/Integration, Streaming Technologies, Kafka.
-* **Specific AI/ML:** GenAI/LLMs (OpenAI, Azure AI Services), Computer Vision, Time Series, FFT, Vibration Analysis, Data Scraping, MLOps/DataOps, MLOps Concepts.
-* **Infrastructure/DevOps:** IaC (Terraform), CI/CD (GitHub Actions, Azure DevOps), Observability (Prometheus, Grafana, Tracer, Error, Logs), Kubernetes, Docker, Kong, Key Vault, Edge Compute, On-Prem Servers.
-* **SAP Ecosystem:** SAP Analytics, Datasphere.
-* **Visualization:** Streamlit, Plotly Dash, PowerBI.
-* **Other:** HLS, Atmospheric Models (WRF, Geoschem).
+* **Research & Advanced Topics:** Quantum Machine Learning (QML), Quantum Computing, GenAI/LLMs, HPC, Atmospheric Models (WRF, Geoschem).
+* **Data Systems:** Databricks, Spark, Data Factory, Airflow, Streaming (Kafka), SQL/NoSQL (PostgreSQL, MongoDB), SAP Ecosystem.
+* **Cloud Native & DevOps:** IaC (Terraform), CI/CD (GitHub Actions, Azure DevOps), Observability (Prometheus, Grafana), Kubernetes, Kong, Key Vault, Edge Compute.
+* **Development & Visualization:** React/Angular, TypeScript, Golang, Plotly Dash, PowerBI, Streamlit.
+
+---
 
 ## Projects & Contributions
 
-I led the development of critical Big Data and AI platforms, founded data areas, and actively contribute to R&D&I projects focused on applying cutting-edge technology to solve complex problems and generate business value, including pioneering solutions with GenAI and multi-cloud platforms.
+I consistently lead the development of critical Big Data and AI platforms, driving business value, and actively contribute to R&D&I projects focused on pioneering solutions, multi-cloud platforms, and advanced research.
 
 ## Find Me On:
 
@@ -64,7 +60,14 @@ I led the development of critical Big Data and AI platforms, founded data areas,
   <a href="https://github.com/patricksferraz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  </p>
+</p>
+
+---
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patricksferraz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/patricksferraz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricksferraz&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight)](https://github.com/patricksferraz)
 
 ---
 
