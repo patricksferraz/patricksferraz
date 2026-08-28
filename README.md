@@ -9,7 +9,7 @@
 **Principal AI & Data Architect** · Founder [@c4u-tech](https://github.com/c4u-tech) · Quantum ML researcher
 
 I architect Data & AI platforms that make it to production — lakehouses, GenAI systems and
-MLOps pipelines across AWS, Azure and GCP. 20+ clients in Oil & Gas, Healthcare, Manufacturing
+MLOps pipelines across AWS, Azure and GCP. Clients in Oil & Gas, Healthcare, Manufacturing
 and Agribusiness. Researching Quantum Machine Learning at CIMATEC.
 
 ### Currently
@@ -27,15 +27,16 @@ the team that runs it today.
 
 **Industrial monitoring platform** — real-time asset monitoring for oil & gas. **−30% unplanned downtime.**
 
-**GenAI copilots for restaurants — Natural Bot** — founding data scientist. Shipped Brazil's first
-AI copilot for the gastronomy sector on a multi-agent LLM architecture, before MCP/A2A existed.
+**Coding4u** — founded and led it to clients across five sectors and **178% average annual
+growth**.
 
-**Coding4u** — founded and led to **20+ clients** and **178% average annual growth**.
+**GenAI copilots for restaurants — Natural Bot** — early data scientist. Built the multi-agent
+LLM architecture behind the product, before MCP/A2A existed.
 
 ### Research · Quantum ML
 
 Quantum kernels for non-linear fluid dynamics — surrogate models targeting quantum advantage in
-small-data CFD, validated on CIMATEC's 35-qubit KUATOMU simulator. MSc @ CIMATEC GETEC · LAQCC fellow.
+small-data CFD, benchmarked on CIMATEC's 35-qubit KUATOMU simulator. MSc at CIMATEC · LAQCC fellow.
 Earlier: deep learning for COVID-19 screening — awarded research, 98% accuracy.
 
 ### Stack
