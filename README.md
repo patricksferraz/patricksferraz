@@ -1,74 +1,50 @@
-<img src="https://raw.githubusercontent.com/patricksferraz/patricksferraz/master/img/ci.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/banner-light.svg">
+  <img alt="Patrick Ferraz — Principal AI &amp; Data Architect" src="img/banner-light.svg">
+</picture>
 
-# Hi there, I'm Patrick Ferraz 👋
+# Patrick Ferraz
 
-I am a **Data & AI Engineer** and **Tech Founder** specializing in high-impact **Data & AI Platforms** and systems architecture. My work focuses on driving digital transformation across multi-cloud environments (AWS, Azure, GCP). I am also actively researching **Quantum Machine Learning (QML)** at the Master's level.
+**Principal AI & Data Architect** · Founder [@c4u-tech](https://github.com/c4u-tech) · Quantum ML researcher
 
-My expertise spans the entire product lifecycle, from R&D and foundational architecture to robust MLOps/DevOps implementation:
+I architect Data & AI platforms that make it to production — lakehouses, GenAI systems and
+MLOps pipelines across AWS, Azure and GCP. 20+ clients in Oil & Gas, Healthcare, Manufacturing
+and Agribusiness. Researching Quantum Machine Learning at CIMATEC.
 
-* **Principal Focus:** Architecting and implementing scalable Big Data, AI, and Cloud Platforms.
-* **Innovation:** Advanced research in **QML** and practical application of **Generative AI (GenAI) & LLMs**.
-* **Leadership:** Technical and strategic leadership, establishing **Data Areas** from scratch and founding tech **Startups**.
-* **Engineering & Ops:** Deep proficiency in **Software Engineering (Go, Python, TypeScript)** and implementing robust **DevOps, DataOps, and MLOps** practices.
-* **Current Research:** Quantum Machine Learning (QML) and Quantum Computing.
+### Currently
 
----
+- Principal consultant at **Coding4u** — lakehouse and multi-agent AI architectures
+- MSc research at **CIMATEC / LAQCC** — quantum kernels as CFD surrogate models
+- Teaching AI, Big Data and HPC in graduate programs at **SENAI CIMATEC**
 
-## Core Stack & Research Focus
+### Selected work
 
-I operate across multi-cloud infrastructure and a specialized stack designed for performance and scale.
+Client work is not public — the pinned repositories below are where the craft shows.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD4?style=flat-square&logo=go&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF6F00?style=flat-square&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
+**Founded the data division at PetroReconcavo** — built it from zero over ~4 years, including
+the team that runs it today.
 
-I also work with:
-* **Research & Advanced Topics:** Quantum Machine Learning (QML), Quantum Computing, GenAI/LLMs, HPC, Atmospheric Models (WRF, Geoschem).
-* **Data Systems:** Databricks, Spark, Data Factory, Airflow, Streaming (Kafka), SQL/NoSQL (PostgreSQL, MongoDB), SAP Ecosystem.
-* **Cloud Native & DevOps:** IaC (Terraform), CI/CD (GitHub Actions, Azure DevOps), Observability (Prometheus, Grafana), Kubernetes, Kong, Key Vault, Edge Compute.
-* **Development & Visualization:** React/Angular, TypeScript, Golang, Plotly Dash, PowerBI, Streamlit.
+**Industrial monitoring platform** — real-time asset monitoring for oil & gas. **−30% unplanned downtime.**
 
----
+**GenAI copilots for restaurants — Natural Bot** — founding data scientist. Shipped Brazil's first
+AI copilot for the gastronomy sector on a multi-agent LLM architecture, before MCP/A2A existed.
 
-## Projects & Contributions
+**Coding4u** — founded and led to **20+ clients** and **178% average annual growth**.
 
-I consistently lead the development of critical Big Data and AI platforms, driving business value, and actively contribute to R&D&I projects focused on pioneering solutions, multi-cloud platforms, and advanced research.
+### Research · Quantum ML
 
-## Find Me On:
+Quantum kernels for non-linear fluid dynamics — surrogate models targeting quantum advantage in
+small-data CFD, validated on CIMATEC's 35-qubit KUATOMU simulator. MSc @ CIMATEC GETEC · LAQCC fellow.
+Earlier: deep learning for COVID-19 screening — awarded research, 98% accuracy.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/patricksferraz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:patrick.ferraz@coding4u.tech">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://github.com/patricksferraz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</p>
+### Stack
 
----
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
 
-## GitHub Stats
+### Contact
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patricksferraz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/patricksferraz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricksferraz&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight)](https://github.com/patricksferraz)
+**Available for consulting** — Data & AI platform work via [coding4u.tech](https://coding4u.tech).
+Open to conversations about Principal / Staff roles.
 
----
-
-<h5 align="center">@patricksferraz</h5>
+[LinkedIn](https://www.linkedin.com/in/patricksferraz/) · [Email](mailto:patrick.ferraz@coding4u.tech) · [coding4u.tech](https://coding4u.tech)
