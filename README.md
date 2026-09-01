@@ -1,51 +1,79 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/banner-light.svg">
-  <img alt="Patrick Ferraz — Principal AI &amp; Data Architect" src="img/banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Patrick Ferraz — Principal AI &amp; Data Architect" src="assets/header-light.svg">
 </picture>
 
-# Patrick Ferraz
+**Principal AI & Data Architect** · Founder of [Coding4u](https://coding4u.tech) · Quantum ML researcher at CIMATEC
 
-**Principal AI & Data Architect** · Founder [@c4u-tech](https://github.com/c4u-tech) · Quantum ML researcher
+I build data and AI platforms that survive contact with production — lakehouses, GenAI systems
+and MLOps pipelines across AWS, Azure and GCP.
 
-I architect Data & AI platforms that make it to production — lakehouses, GenAI systems and
-MLOps pipelines across AWS, Azure and GCP. Clients in Oil & Gas, Healthcare, Manufacturing
-and Agribusiness. Researching Quantum Machine Learning at CIMATEC.
-
-### Currently
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-now-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-now-light.svg">
+  <img alt="Now — three states in superposition" src="assets/section-now-light.svg">
+</picture>
 
 - Principal consultant at **Coding4u** — lakehouse and multi-agent AI architectures
-- MSc research at **CIMATEC / LAQCC** — quantum kernels as CFD surrogate models
-- Teaching AI, Big Data and HPC in graduate programs at **SENAI CIMATEC**
+- MSc researcher at **CIMATEC / LAQCC** — quantum kernels as CFD surrogates
+- Teaching AI, big data and HPC at **SENAI CIMATEC**
 
-### Selected work
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-work-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-work-light.svg">
+  <img alt="Work — where the craft shows" src="assets/section-work-light.svg">
+</picture>
 
-Client work is not public — the pinned repositories below are where the craft shows.
+Ten years shipping data and AI. What that looks like in practice:
 
-**Founded the data division at PetroReconcavo** — built it from zero over ~4 years, including
-the team that runs it today.
+<table>
+  <tr>
+    <td><strong>Platforms from&nbsp;zero</strong></td>
+    <td>Built a company's first lakehouse twice — founding the data division at an oil &amp; gas
+    operator (the team I hired still runs it) and standing one up for a capital-markets fintech,
+    governance included.</td>
+  </tr>
+  <tr>
+    <td><strong>GenAI in production</strong></td>
+    <td>Multi-agent LLM systems shipped since 2023, before MCP or A2A existed — from a restaurant
+    copilot as founding data scientist to a churn-prevention agent system delivered to a university
+    network in three months.</td>
+  </tr>
+  <tr>
+    <td><strong>AI where stakes are high</strong></td>
+    <td>Award-winning deep learning for COVID-19 screening (<strong>98%</strong> accuracy);
+    5G + edge monitoring for mining safety; oil &amp; gas asset platforms (<strong>−30%</strong>
+    unplanned downtime).</td>
+  </tr>
+  <tr>
+    <td><strong>Teams that outlast me</strong></td>
+    <td>Founded Coding4u — 20+ clients, <strong>178%</strong> average annual growth; co-founded
+    FairGame as CTO through MVP; mentor engineers and teach AI at the graduate level.</td>
+  </tr>
+</table>
 
-**Industrial monitoring platform** — real-time asset monitoring for oil & gas. **−30% unplanned downtime.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-research-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-research-light.svg">
+  <img alt="Research — the long game" src="assets/section-research-light.svg">
+</picture>
 
-**Coding4u** — founded and led it to clients across five sectors and **178% average annual
-growth**.
+Fluid-dynamics simulation is expensive, and the data to train cheaper surrogate models is
+scarce. My MSc research at CIMATEC / LAQCC asks whether quantum kernels can learn these
+non-linear dynamics from small datasets, benchmarked on KUATOMU — CIMATEC's 35-qubit simulator.
 
-**GenAI copilots for restaurants — Natural Bot** — early data scientist. Built the multi-agent
-LLM architecture behind the product, before MCP/A2A existed.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img alt="Stack: Go, Python, TypeScript, Databricks, Spark, Kubernetes, Terraform, Qiskit" src="assets/stack-light.svg">
+</picture>
 
-### Research · Quantum ML
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-contact-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-contact-light.svg">
+  <img alt="Contact — state collapses here" src="assets/section-contact-light.svg">
+</picture>
 
-Quantum kernels for non-linear fluid dynamics — surrogate models targeting quantum advantage in
-small-data CFD, benchmarked on CIMATEC's 35-qubit KUATOMU simulator. MSc at CIMATEC · LAQCC fellow.
-Earlier: deep learning for COVID-19 screening — awarded research, 98% accuracy.
-
-### Stack
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
-
-### Contact
-
-**Available for consulting** — Data & AI platform work via [coding4u.tech](https://coding4u.tech).
-Open to conversations about Principal / Staff roles.
-
-[LinkedIn](https://www.linkedin.com/in/patricksferraz/) · [Email](mailto:patrick.ferraz@coding4u.tech) · [coding4u.tech](https://coding4u.tech)
+**Available for consulting** via [coding4u.tech](https://coding4u.tech) · open to Principal / Staff
+conversations · [LinkedIn](https://www.linkedin.com/in/patricksferraz/) · [Email](mailto:patrick.ferraz@coding4u.tech)

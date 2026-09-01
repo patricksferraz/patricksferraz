@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="52" viewBox="0 0 1000 52" role="img" aria-label="Contact — state collapses here">
+  <rect x="1" y="12" width="28" height="28" fill="none" stroke="#6d28d9" stroke-width="1.5"/>
+  <path d="M7 33 A11 11 0 0 1 29 33" fill="none" stroke="#6d28d9" stroke-width="1.25"/><line x1="18" y1="33" x2="25" y2="20" stroke="#6d28d9" stroke-width="1.25"/>
+  <text x="46" y="32" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="16" fill="#1f2328" textLength="130" lengthAdjust="spacing">CONTACT</text>
+  <text x="192" y="32" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="13" font-style="italic" fill="#57606a">—</text>
+  <text x="206" y="32" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="13" font-style="italic" fill="#57606a" textLength="130" lengthAdjust="spacing">state collapses here</text>
+  <line x1="356" y1="26" x2="998" y2="26" stroke="#d0d7de" stroke-width="1"/>
+</svg>

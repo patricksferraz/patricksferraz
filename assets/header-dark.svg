@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-label="Patrick Ferraz — Principal AI and Data Architect">
+  <!-- wordmark -->
+  <text x="8" y="78" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="46" fill="#e6edf3">Patrick Ferraz</text>
+  <line x1="10" y1="98" x2="420" y2="98" stroke="#30363d" stroke-width="1"/>
+  <line x1="10" y1="102" x2="420" y2="102" stroke="#30363d" stroke-width="1"/>
+  <text x="10" y="131" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="4" fill="#8b949e">PRINCIPAL AI &amp; DATA ARCHITECT</text>
+  <text x="10" y="158" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="14" font-style="italic" fill="#8b949e">Data &amp; AI platforms · Quantum machine learning · Multi-cloud</text>
+
+  <!-- quantum circuit -->
+  <g stroke="#30363d" stroke-width="1.25">
+    <line x1="600" y1="54" x2="950" y2="54"/>
+    <line x1="600" y1="90" x2="950" y2="90"/>
+    <line x1="600" y1="126" x2="950" y2="126"/>
+  </g>
+
+  <!-- H gate (wire 1) -->
+  <g>
+    <rect x="670" y="38" width="32" height="32" fill="none" stroke="#a78bfa" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="0.55;1;0.55" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="686" y="60" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="16" fill="#a78bfa" text-anchor="middle">H</text>
+  </g>
+
+  <!-- CNOT: control wire 1, target wire 2 -->
+  <line x1="770" y1="54" x2="770" y2="90" stroke="#8b949e" stroke-width="1.25"/>
+  <circle cx="770" cy="54" r="4" fill="#8b949e"/>
+  <circle cx="770" cy="90" r="10" fill="none" stroke="#8b949e" stroke-width="1.25"/>
+  <line x1="760" y1="90" x2="780" y2="90" stroke="#8b949e" stroke-width="1.25"/>
+  <line x1="770" y1="80" x2="770" y2="100" stroke="#8b949e" stroke-width="1.25"/>
+
+  <!-- R gate (wire 3) -->
+  <rect x="684" y="110" width="32" height="32" fill="none" stroke="#8b949e" stroke-width="1.25"/>
+  <text x="700" y="132" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="15" fill="#8b949e" text-anchor="middle">R</text>
+
+  <!-- measurement (wire 2) -->
+  <rect x="862" y="74" width="38" height="32" fill="none" stroke="#8b949e" stroke-width="1.25"/>
+  <path d="M870 100 A11 11 0 0 1 892 100" fill="none" stroke="#8b949e" stroke-width="1.25"/>
+  <line x1="881" y1="100" x2="889" y2="83" stroke="#8b949e" stroke-width="1.25"/>
+
+  <!-- pulse travelling wire 1 -->
+  <circle cy="54" r="2.5" fill="#a78bfa">
+    <animate attributeName="cx" values="600;950" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.1;0.85;1" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>

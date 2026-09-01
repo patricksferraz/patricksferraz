@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="52" viewBox="0 0 1000 52" role="img" aria-label="Work — where the craft shows">
+  <rect x="1" y="12" width="28" height="28" fill="none" stroke="#6d28d9" stroke-width="1.5"/>
+  <text x="15" y="32" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="15" fill="#6d28d9" text-anchor="middle">X</text>
+  <text x="46" y="32" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="16" fill="#1f2328" textLength="92" lengthAdjust="spacing">WORK</text>
+  <text x="154" y="32" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="13" font-style="italic" fill="#57606a">—</text>
+  <text x="168" y="32" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="13" font-style="italic" fill="#57606a" textLength="138" lengthAdjust="spacing">where the craft shows</text>
+  <line x1="326" y1="26" x2="998" y2="26" stroke="#d0d7de" stroke-width="1"/>
+</svg>
